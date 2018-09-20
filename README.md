@@ -1,5 +1,4 @@
-# snippets
-Useful snippets I've come up with
+# Useful snippets I've come accross/up with
 
 ### Python
 ```python
