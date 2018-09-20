@@ -1,9 +1,10 @@
 # Useful snippets I've come accross/up with
 
 ### Python
+Efficiently check if a list contains any values from another list
 ```python
-def fast_a_contains_any_b(list_a, list_b):
-    return next((True for item in list_a if item in list_b), False)
+def a_contains_any_b(a, b):
+    return next((True for item in a if item in b), False)
 ```
 
 ### Bash
